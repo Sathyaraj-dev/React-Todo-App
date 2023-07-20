@@ -1,7 +1,7 @@
 .App {
   text-align: left;
   margin: 50px auto;
-  padding: 0 30px;
+  padding: 0 20px;
 }
 
 body {
@@ -9,6 +9,7 @@ body {
   background-color: #c5c5f5;
   background-size: contain;
   background-position: center bottom;
+  height: 100vh;
 }
 
 #root {
@@ -42,6 +43,10 @@ button {
   border-radius: 6px;
 }
 
+.todo-list button {
+  margin: 0 5px;
+}
+
 .view-mode, .edit-mode {
   display: flex;
   align-items: center;
@@ -73,6 +78,7 @@ button {
   body {
     background-size: auto;
     background-position: top right;
+    height: 100%;
   }
 
   .App {
@@ -86,4 +92,9 @@ button {
   .view-mode input {
     width: auto;
   }
+
+  .todo-list button {
+    margin: 0 10px;
+  }
+
 }

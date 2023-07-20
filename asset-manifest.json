@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sathyaraj-dev/React-Todo-App/static/css/main.abdb9dac.css",
-    "main.js": "/Sathyaraj-dev/React-Todo-App/static/js/main.d5435774.js",
-    "static/js/787.2843ca88.chunk.js": "/Sathyaraj-dev/React-Todo-App/static/js/787.2843ca88.chunk.js",
-    "static/media/todo.svg": "/Sathyaraj-dev/React-Todo-App/static/media/todo.a2f401f21aabe778ffb2.svg",
-    "index.html": "/Sathyaraj-dev/React-Todo-App/index.html",
-    "main.abdb9dac.css.map": "/Sathyaraj-dev/React-Todo-App/static/css/main.abdb9dac.css.map",
-    "main.d5435774.js.map": "/Sathyaraj-dev/React-Todo-App/static/js/main.d5435774.js.map",
-    "787.2843ca88.chunk.js.map": "/Sathyaraj-dev/React-Todo-App/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/React-Todo-App/static/css/main.0bb868ae.css",
+    "main.js": "/React-Todo-App/static/js/main.19874284.js",
+    "static/js/787.2843ca88.chunk.js": "/React-Todo-App/static/js/787.2843ca88.chunk.js",
+    "static/media/todo.svg": "/React-Todo-App/static/media/todo.a2f401f21aabe778ffb2.svg",
+    "index.html": "/React-Todo-App/index.html",
+    "main.0bb868ae.css.map": "/React-Todo-App/static/css/main.0bb868ae.css.map",
+    "main.19874284.js.map": "/React-Todo-App/static/js/main.19874284.js.map",
+    "787.2843ca88.chunk.js.map": "/React-Todo-App/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abdb9dac.css",
-    "static/js/main.d5435774.js"
+    "static/css/main.0bb868ae.css",
+    "static/js/main.19874284.js"
   ]
 }
